@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a11f6874-b964-4f65-8de4-2caad28c9ffb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/MyConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/MySalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/ProductSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/AddOrSubtractDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/DateDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/Dress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/MultipleInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/MyFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_OOP/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,28 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MySalary">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Animal" />
-      <module name="JavaOOP.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java_OOP.Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_OOP.Animal" />
+}</component>
+  <component name="RunManager" selected="Application.MultipleInterface">
+    <configuration name="AddOrSubtractDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_OOP.AddOrSubtractDate" />
       <module name="JavaOOP.main" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_OOP.MySalary" />
+    <configuration name="DateDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_OOP.DateDifference" />
       <module name="JavaOOP.main" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parrot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_OOP.Parrot" />
+    <configuration name="MultipleInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_OOP.MultipleInterface" />
       <module name="JavaOOP.main" />
       <extension name="coverage">
         <pattern>
@@ -110,20 +96,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_OOP.ProductSell" />
+    <configuration name="MyFood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_OOP.MyFood" />
       <module name="JavaOOP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_OOP.TestInterface" />
+      <module name="JavaOOP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MySalary" />
-        <item itemvalue="Application.Parrot" />
-        <item itemvalue="Application.Java_OOP.Animal" />
-        <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.ProductSell" />
+        <item itemvalue="Application.MultipleInterface" />
+        <item itemvalue="Application.TestInterface" />
+        <item itemvalue="Application.MyFood" />
+        <item itemvalue="Application.DateDifference" />
+        <item itemvalue="Application.AddOrSubtractDate" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +140,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661269081531</updated>
-      <workItem from="1661269083448" duration="5837000" />
+      <workItem from="1661269083448" duration="6525000" />
+      <workItem from="1661352188537" duration="6714000" />
     </task>
     <servers />
   </component>
